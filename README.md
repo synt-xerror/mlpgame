@@ -9,6 +9,6 @@ Email: rafael.antonio.200923@gmail.com
 <br><br>
 <a href="https://postimg.cc/XrB1pcLs">
     <img src="https://i.postimg.cc/wj0C4wmY/my-little-pony-pinkie-pie-spinning-4n0hdb2vif4u204y.gif" 
-         alt="pinkie pie spinning" width="100" height="50">
+         alt="pinkie pie spinning" width="200" height="120">
 </a>
 
