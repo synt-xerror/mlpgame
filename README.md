@@ -7,4 +7,4 @@ if you want to help with development, feel free contact me:
 Whatsapp: +55 (16) 99462-0899 <br>
 E-mail: rafael.antonio.200923@gmail.com
 
-<img scr="https://gifdb.com/images/high/my-little-pony-pinkie-pie-spinning-4n0hdb2vif4u204y.gif" alt="pinkie pie spinning" width="200" height="90">
+[![pinkie.gif](https://i.postimg.cc/wj0C4wmY/my-little-pony-pinkie-pie-spinning-4n0hdb2vif4u204y.gif)](https://postimg.cc/XrB1pcLs)
