@@ -1,4 +1,4 @@
-it's an MLP game, using the pygame library in python.
+it's an MLP game, using the Pygame library in Python.
 
 the game is still very incomplete, with only one level, but I will be making updates soon.
 
