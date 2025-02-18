@@ -1,8 +1,8 @@
-it's a mlp game, using the pygame library from python.
+it's an MLP game, using the pygame library in python.
 
-the game is very incomplete, with only 1 level, but i will make some updates soon.
+the game is still very incomplete, with only one level, but I will be making updates soon.
 
-if you want to help the development, you can contact me:
-
-Whatsapp: +55 (16) 99462-0899
+if you want to help with development, feel free contact me:
+<br>
+Whatsapp: +55 (16) 99462-0899 <br>
 E-mail: rafael.antonio.200923@gmail.com
