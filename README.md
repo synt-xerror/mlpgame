@@ -12,3 +12,10 @@ Email: rafael.antonio.200923@gmail.com
          alt="pinkie pie spinning" width="200" height="120">
 </a>
 
+---
+
+To play, just run Python file: "menu.py".
+When you open the menu, click on "Jogar" to play or "Sair" to quit the game.
+
+This game doesn't have an 'exe' yet, but I'll work on it in future updates.
+Meanwhile, you need an IDE to run the Python file if you want to play.
